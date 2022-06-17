@@ -6,5 +6,6 @@ We are creating this repository to address all the basic questions for newbies i
 ## Contents
 - [Polkadot for Beginners questions](#polkadot-for-beginners)
 - [Technology questions](#technology-questions)
-- [Account](#account)
+- [Account questions](#account)
+- [Governance questions](#governance-questions)
 - 
